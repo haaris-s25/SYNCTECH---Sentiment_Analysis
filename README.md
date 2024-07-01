@@ -1,5 +1,4 @@
 # SYNCTECH---Sentiment_Analysis
-Certainly! Here's a sample README file for your sentiment analysis project on GitHub:
 
 ---
 
